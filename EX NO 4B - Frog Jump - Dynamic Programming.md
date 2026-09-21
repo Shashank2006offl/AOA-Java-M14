@@ -21,8 +21,7 @@ The total number of ways to reach the nth step is stored in dp[n] — print this
 
 ## Program:
 ```
-Developed by: KISHAN SHREE B
-Register Number:212223100022
+
 import java.util.Scanner;
 
 public class FrogJump {
