@@ -21,8 +21,6 @@ Otherwise, return the maximum of maxSum and wrappedDifference.
 
 ## Program:
 ```
-Developed by: KISHAN SHREE B
-Register Number:212223100022
 import java.util.*;
 
 public class SolarEnergyMaximizer {
