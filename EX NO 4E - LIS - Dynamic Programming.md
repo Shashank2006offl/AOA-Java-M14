@@ -22,8 +22,6 @@ Print the maximum LIS length as the final result.
 ## Program:
 ```
 
-Program to implement Reverse a String
-Developed by: KISHAN SHREE B
 Register Number:212223100022
 import java.util.*;
 
